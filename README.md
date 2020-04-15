@@ -12,8 +12,8 @@ Unity上でSkinnedMeshRendererの持つブレンドシェイプそれぞれに�
 7. "Take Screenshot"を押して、終了するまで待ちます。このとき、Unity Editor以外のウインドウにフォーカスを当てないでください。
 8. \Assets\BlendShapeCapturesにBlendShapeと同じ名前の画像が保存されます。
 
-[^1]: ![カメラの設定](readme-images/camera_setting.png)
-[^2]: ![スクリプトのの設定](readme-images/take.png)
+[^1]: ![カメラの設定](https://raw.githubusercontent.com/haru2036/BlendShapeScreenshot/master/readme-images/camera_setting.png)
+[^2]: ![スクリプトのの設定](https://raw.githubusercontent.com/haru2036/BlendShapeScreenshot/master/readme-images/take.png)
 
 # LICENSE
 このスクリプトはMITライセンスで公開されています。
