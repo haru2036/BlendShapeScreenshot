@@ -1,6 +1,14 @@
 # ブレンドシェイプごとのスクリーンショットを撮影するやつ
 Unity上でSkinnedMeshRendererの持つブレンドシェイプそれぞれに対してスクリーンショットを撮影するスクリプトです。
 
+# 動作イメージ
+![example](https://raw.githubusercontent.com/haru2036/BlendShapeScreenshot/c5f47681ce22e33e766b08d07559d369d0fffbf5/readme-images/example-reeva.gif)
+
+ここでは、⊿S.I.N 様の【3Dモデル】Leeme -リーメ- & Reeva -リーバ-に対して本スクリプトを使用しています。
+
+https://tomori-hikage.booth.pm/items/972559
+
+
 # 使い方
 念の為使用前にプロジェクトのバックアップを取ってください。
 1. AssetsにBlendShapeScreenshot.csを配置します。
